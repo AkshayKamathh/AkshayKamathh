@@ -26,12 +26,12 @@ Outside of work, I co-founded **SJHACKS**, now SJSU’s largest hackathon with 2
 
 ## 🚀 Experience  
 
-- **![Cisco](https://img.shields.io/badge/Cisco-%23049FD9?style=for-the-badge&logo=cisco&logoColor=white) Cisco (2024 & 2025)**  
+- **![Cisco](https://img.shields.io/badge/Cisco-%23049FD9?style=for-the-badge&logo=cisco&logoColor=white) (2024 & 2025)**  
   - Built AI agents with LangChain + GPT-4 that flagged $100M+ in subscription variances, cutting manual review by 85%.  
   - Engineered Python/SQL pipelines and dashboards for financial analysts.  
   - Shipped Kafka-based services in Java + Spring Boot, deployed with Docker/Kubernetes, handling 10k+ records/day at 99.99% uptime.  
 
-- **![Tesla](https://img.shields.io/badge/Tesla-%23CC0000?style=for-the-badge&logo=tesla&logoColor=white) Tesla (2025)**  
+- **![Tesla](https://img.shields.io/badge/Tesla-%23CC0000?style=for-the-badge&logo=tesla&logoColor=white) (2025)**  
   - Clustered 12k+ parking lots with scikit-learn K-means to prioritize charger rollout.  
   - Built a Flask + React Leaflet tool with PostgreSQL backend for one-click owner lookup.  
 
