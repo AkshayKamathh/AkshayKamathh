@@ -2,13 +2,12 @@
 
 💻 Backend Developer | Junior @ San José State University (CS, Class of 2027)  
 
-Over the past few years, I’ve worked across **Cisco**, **Tesla**, and SJSU’s **Machine Intelligence Lab**, building backend systems, AI tools, and data pipelines:  
+I’ve built backend systems, data pipelines, and AI tools across **Cisco**, **Tesla**, and SJSU’s **Machine Intelligence Lab**:  
+- **Cisco** → Kafka + Spring Boot services, plus Python/SQL pipelines and GPT-4 agents that flagged $100M+ in variances  
+- **Tesla** → clustering + mapping to prioritize charger rollout, with a Flask + React Leaflet lookup tool  
+- **SJSU Lab** → TensorFlow models for battery health prediction, boosting accuracy by 15% and cutting inference time by 20%  
 
-- At **Cisco**, I engineered Kafka-based services in Java + Spring Boot, deployed with Docker/Kubernetes, and later built Python/SQL pipelines and LangChain + GPT-4 agents that flagged $100M+ in subscription variances.  
-- At **Tesla**, I clustered 12k+ parking lots with scikit-learn to prioritize charger rollout and launched a Flask + React Leaflet lookup tool for faster charger deployment.  
-- In the **Machine Intelligence Lab**, I trained TensorFlow models to predict lithium-ion battery health, improving accuracy by 15% and cutting inference time by 20%.  
-
-Outside of work, I co-founded **SJHACKS**, now the biggest hackathon at SJSU, bringing together 250+ students last year and aiming even higher this year.  
+Outside of work, I co-founded **SJHACKS**, now SJSU’s largest hackathon with 250+ students.  
 
 ---
 
