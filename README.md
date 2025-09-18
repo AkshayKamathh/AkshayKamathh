@@ -10,16 +10,34 @@ At the end of the day, I’m someone who likes solving problems, moving fast, an
 
 ---
 
-## 🔧 Tech I Work With  
+## 🛠 Tech Stack  
 
-**Languages**  
-Python • Java • SQL • JavaScript  
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
 
-**Frameworks & Tools**  
-Flask • Spring Boot • React • Docker • Kubernetes • Jenkins • Kafka • PostgreSQL  
+---
 
-**ML / Data**  
-TensorFlow • scikit-learn • Pandas • NumPy • LangChain  
+### ⚙️ Frameworks & Tools  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+
+---
+
+### 📊 ML / Data  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?logoColor=white)  
 
 ---
 
