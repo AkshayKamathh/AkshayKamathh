@@ -1,5 +1,11 @@
 # 👋 Hey, I’m Akshay
 
+<!-- Banner image -->
+<p align="center">
+  <img src="header.jpg" alt="Banner image" width="100%" />
+</p>
+
+<!-- Photo of yourself -->
 <p align="center">
   <img src="your-face-image.jpg" alt="Akshay Kamath" width="150" />
 </p>
@@ -8,7 +14,7 @@
 
 I develop backend systems, data pipelines and AI tools. I’ve gained experience at **Cisco**, **Tesla** and in SJSU’s **Machine Intelligence & Complex Systems Lab**:
 
-- **Cisco** → Built Kafka + Spring Boot services, Python/SQL pipelines and GPT‑4 agents that flagged over \$100M in subscription variances, cutting manual review by 85%.  
+- **Cisco** → Built Kafka + Spring Boot services, Python/SQL pipelines and GPT‑4 agents that flagged over $100M in subscription variances, cutting manual review by 85%.  
 - **Tesla** → Applied clustering and mapping to prioritize charger rollout and created a Flask + React Leaflet tool with a PostgreSQL backend for one‑click lookups.  
 - **SJSU Research** → Trained TensorFlow models to predict battery health, improving accuracy by 15% and cutting inference time by 20%.
 
@@ -33,7 +39,7 @@ Outside of work, I co‑founded **SJHACKS**, now SJSU’s largest hackathon with
 
 - **![Cisco](https://img.shields.io/badge/Cisco-%23049FD9?style=for-the-badge&logo=cisco&logoColor=white) (2024 – 2025)**  
   - Built AI agents and pipelines that uncovered \$100M+ in subscription variances and cut manual review by 85%.  
-  - Developed Kafka-based services in Java + Spring Boot and Python/SQL dashboards for financial analysts.  
+  - Developed Kafka-based services in Java + Spring Boot and Python/SQL dashboards for financial analysts.  
 
 - **![Tesla](https://img.shields.io/badge/Tesla-%23CC0000?style=for-the-badge&logo=tesla&logoColor=white) (2025)**  
   - Clustered 12k+ parking lots with scikit‑learn to prioritize EV charger rollout.  
