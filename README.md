@@ -9,7 +9,8 @@ CS @ San José State University (’27). Backend/infra + data/ML.
 - Building **PUnit** (Python): portfolio backtesting/forecasting — correlated Monte Carlo up to **50K sims/run**.
 
 ## Stack
-Python · Java · C · JavaScript · SQL  
-Spring Boot · FastAPI · Flask · Express · React · JUnit · pytest · LangChain  
-Git · Linux/Bash · Docker · Kubernetes · Jenkins · GitHub Actions · GCP · Kafka  
-NumPy · pandas · scikit-learn · SQLAlchemy · Matplotlib
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,postgres,spring,fastapi,flask,express,react,git,linux,bash,docker,kubernetes,jenkins,githubactions,gcp,kafka,numpy,pandas,sklearn&perline=10" />
+</p>
+
+<sub>Also: JUnit · pytest · LangChain · SQLAlchemy · Matplotlib</sub>
