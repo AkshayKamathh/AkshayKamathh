@@ -5,17 +5,9 @@
   <img src="your-face-image.jpg" alt="Akshay Kamath" width="150" />
 </p>
 
-💻 Backend Developer | Junior @ San José State University (CS, Class of 2027)
+💻  Software Engineer | Junior @ San José State University (CS, Class of 2027)
 
-I develop backend systems, data pipelines and AI tools. I’ve gained experience at **Cisco**, **Tesla** and in SJSU’s **Machine Intelligence & Complex Systems Lab**:
 
-- **Cisco** → Built Kafka + Spring Boot services, Python/SQL pipelines and GPT-4 agents that flagged over $100M in subscription variances, cutting manual review by 85%.  
-- **Tesla** → Applied clustering and mapping to prioritize charger rollout and created a Flask + React Leaflet tool with a PostgreSQL backend for one-click lookups.  
-- **SJSU Research** → Trained TensorFlow models to predict battery health, improving accuracy by 15% and cutting inference time by 20%.
-
-Outside of work, I co-founded **SJHACKS**, now SJSU’s largest hackathon with 250+ participants and growing.
-
----
 
 ## 🛠 Tech Stack
 
