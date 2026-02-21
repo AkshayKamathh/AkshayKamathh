@@ -5,7 +5,7 @@
   <img src="your-face-image.jpg" alt="Akshay Kamath" width="150" />
 </p>
 
-💻  Software Engineer | CS @ San Jose State (CO 2027) | prev Softare Engineer Intern 2x @Cisco, @Tesla
+💻  Software Engineer | CS @ San Jose State (CO 2027) 
 
 
 
