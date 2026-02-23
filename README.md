@@ -1,8 +1,6 @@
 # Akshay Kamath
 
-CS @ San José State University (’27). 
-
-Interested in Backend, Infrastructure, and Finance.
+CS @ San José State University (’27). Interested in Backend, Infrastructure, and Finance.
 
 ## Work Experience
 <br/>
@@ -11,7 +9,7 @@ Interested in Backend, Infrastructure, and Finance.
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [GitHub](https://github.com/akshaykamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
 
-## Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
