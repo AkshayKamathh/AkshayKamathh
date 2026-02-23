@@ -12,6 +12,7 @@ Interested in Backend, Infrastructure, and Finance.
   <img src="https://cdn.simpleicons.org/tesla/CC0000" width="64" height="64" style="vertical-align: middle;" />
 </span>
 
+
 **Links:** [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [GitHub](https://github.com/akshaykamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
 
 ## Stack
