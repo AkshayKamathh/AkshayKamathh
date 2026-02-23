@@ -14,7 +14,7 @@ Previously @
   </tr>
 </table>
 
-**Links:** [Resume](AkshayKamath.pdf) · [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
+**Links:** [Resume](AkshayKamath.pdf) · [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [Email](mailto:akshay.kamath@sjsu.edu)
 
 ## Stack
 
