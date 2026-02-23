@@ -2,7 +2,8 @@
 
 CS @ San José State University (’27). Interested in Backend, Infrastructure, and Finance.
 
-Previously @
+
+Previously @<br/>
 <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="64" style="vertical-align: middle;" />
 and
 <img src="https://cdn.simpleicons.org/tesla/CC0000" height="64" style="vertical-align: middle;" />.
