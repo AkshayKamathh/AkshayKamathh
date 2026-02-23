@@ -1,13 +1,17 @@
 # Akshay Kamath
 
-CS @ San José State University (’27). Interested in Backend, Infrastructure, and Finance.
+CS @ San José State University (’27) · Backend / Infrastructure / Finance
 
-## Work Experience
-<br/>
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="64" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/tesla/CC0000" height="64" style="vertical-align: middle;" />
-
+Previously @
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="64" height="64" /></td>
+    <td><img src="https://cdn.simpleicons.org/tesla/CC0000" width="64" height="64" /></td>
+  </tr>
+</table>
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [GitHub](https://github.com/akshaykamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
+
 
 ## Tech Stack
 
