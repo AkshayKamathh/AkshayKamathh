@@ -1,8 +1,8 @@
 # Akshay Kamath
 
 CS @ San José State University (’27). Previously interned 2× at
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" style="vertical-align: -2px;" /> Cisco and
-<img src="https://cdn.simpleicons.org/tesla/CC0000" height="32" style="vertical-align: -2px;" /> Tesla.
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" style="vertical-align: -3px;" /> Cisco and
+<img src="https://cdn.simpleicons.org/tesla/CC0000" height="32" style="vertical-align: -3px;" /> Tesla.
 Interested in Backend, Infrastructure, and Finance.
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [GitHub](https://github.com/akshaykamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
