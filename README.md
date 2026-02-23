@@ -1,6 +1,6 @@
 # Akshay Kamath
 
-CS @ San José State University (’27). Backend/infra + data/ML.
+CS @ San José State University (’27). Previously interned 2x @Cisco, @Tesla. Interested in Backend, Infrastructure, and Finance.
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [GitHub](https://github.com/akshaykamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
 
