@@ -7,6 +7,7 @@ Previously @
 and
 <img src="https://cdn.simpleicons.org/tesla/CC0000" height="64" style="vertical-align: middle;" />.
 
+
 **Links:** [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [GitHub](https://github.com/akshaykamathh) · [Email](mailto:akshay.kamath@sjsu.edu) · [Resume](AkshayKamath.pdf)
 
 ## Now
