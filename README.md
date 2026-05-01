@@ -6,7 +6,7 @@ Currently @
 <table>
   <tr>
     <td>
-      <img src="https://cdn.simpleicons.org/apple/000000" width="64" height="64" />
+      <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="64" height="64" />
     </td>
   </tr>
 </table>
