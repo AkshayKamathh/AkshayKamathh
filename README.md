@@ -1,6 +1,6 @@
 # Akshay Kamath
 
-CS @ San José State University (’27) · Backend / Infrastructure / Finance
+CS @ San José State University (’27) · Software Engineering / Systems / Product
 
 Currently @
 <table>
