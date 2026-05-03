@@ -2,18 +2,12 @@
 
 CS @ San José State University (’27) · Software Engineering / Systems / Product
 
-Currently @
+Experience @
 <table>
   <tr>
     <td>
       <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="64" height="64" />
     </td>
-  </tr>
-</table>
-
-Previously @
-<table>
-  <tr>
     <td style="padding-right: 12px;">
       <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="64" height="64" />
     </td>
