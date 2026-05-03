@@ -17,7 +17,7 @@ Experience @
   </tr>
 </table>
 
-**Links:** [Resume](AkshayKamath.pdf) · [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [Email](mailto:akshay.kamath@sjsu.edu)
+**Links:** [Resume](Akshay_Kamath_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/akshay-kamathh) · [Email](mailto:akshay.kamath@sjsu.edu)
 
 ## Stack
 
