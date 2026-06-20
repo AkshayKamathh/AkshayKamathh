@@ -1,6 +1,6 @@
 # Akshay Kamath
 
-CS @ San José State University (’27) · Software Engineering / Systems / Product
+CS @ San José State University (’27)
 
 Experience @
 <table>
