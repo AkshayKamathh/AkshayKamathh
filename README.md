@@ -11,9 +11,6 @@ Experience @
     <td style="padding-right: 12px;">
       <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="64" height="64" />
     </td>
-    <td>
-      <img src="https://cdn.simpleicons.org/tesla/CC0000" width="64" height="64" />
-    </td>
   </tr>
 </table>
 
